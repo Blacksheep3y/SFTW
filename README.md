@@ -1,11 +1,16 @@
 # SFTW README.MD
 
 Roles:------------------------------------------------------------------------------------------------------------------------------
+
 Designer
+
 Developer
+
 Researcher
 
 Paragraph:-------------------------------------------------------------------------------------------------------------------------
+
+
 This is my repository for Patrick Pagano's Scripting for the Web Class
 
 For this project I chose to connect the Nexus UI to Tone.js in order to piece together an interesting Graphical User Interface 
@@ -195,5 +200,7 @@ body {
 
 
 Dependencies:--------------------------------------------------------------------------------------------------------------------
+
 Nexus UI https://nexus-js.github.io/ui/
+
 Tone.js  https://github.com/nexus-js/ui/
