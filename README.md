@@ -1,11 +1,11 @@
 # SFTW README.MD
 
-Roles:------------------------------------------------------------------------------------------------------------------------------------
+Roles:------------------------------------------------------------------------------------------------------------------------------
 Designer
 Developer
 Researcher
 
-Paragraph:--------------------------------------------------------------------------------------------------------------------------------
+Paragraph:-------------------------------------------------------------------------------------------------------------------------
 This is my repository for Patrick Pagano's Scripting for the Web Class
 
 For this project I chose to connect the Nexus UI to Tone.js in order to piece together an interesting Graphical User Interface 
@@ -24,7 +24,7 @@ In this Github I have included my SFTW folder and file called (demo.html --- loc
 
 I hope you see that I made an effort, and that although I may have failed to achieve what I hoped to achieve, I was relentless along the way.
 
-RAW HTML CODE:--------------------------------------------------------------------------------------------------------------------------
+RAW HTML CODE:------------------------------------------------------------------------------------------------------------------
 
 <!doctype html>
 <html>
@@ -194,6 +194,6 @@ body {
 </html>
 
 
-Dependencies:-----------------------------------------------------------------------------------------------------------------------------
+Dependencies:--------------------------------------------------------------------------------------------------------------------
 Nexus UI https://nexus-js.github.io/ui/
 Tone.js  https://github.com/nexus-js/ui/
